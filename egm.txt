@@ -1,9 +1,0 @@
-- Podcast about EGM, see issue 1 of https://alifewellwasted.com/ 
-
-- The magazine
-layout changed every so often. E.g. started collecting a visual style from 100
-to 119. Other eras...
-
-- The actual chronology of events can be surprising. E.g.
-Pokemon red/blue were released in the US the same month as MGS on PS1. (when)
-
